@@ -29,8 +29,8 @@
 # 🗣️ Languages
 ### ⚪🟢🔴 Bulgarian - Native
 ### ⚪🔵 Greek - Native
-### 🔵⚪🔴 French - Intermediate
-### ⚪🔴 English - Fluent
+### 🔵⚪🔴 French - B2 level
+### ⚪🔴 English - B2 level
 
 
 
